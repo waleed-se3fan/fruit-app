@@ -1,9 +1,7 @@
 # fruit_app
 
 A new Flutter application.
-![photo_2022-05-26_11-35-57](https://user-images.githubusercontent.com/89372677/170461892-8abc7413-d2be-4dea-b96a-441cd16a49cf.jpg)
-![photo_2022-05-26_11-36-23](https://user-images.githubusercontent.com/89372677/170461898-08a3c425-3b7a-4442-b933-31411548680b.jpg)
-![photo_2022-05-26_11-36-29](https://user-images.githubusercontent.com/89372677/170461904-71434772-6956-4e12-a630-bbff49e5c706.jpg)
+![photo_2022-05-26_11-35-57](https://user-images.githubusercontent.com/89372677/170461892-8abc7413-d2be-4dea-b96a-441cd16a49cf.jpg)![photo_2022-05-26_11-36-23](https://user-images.githubusercontent.com/89372677/170461898-08a3c425-3b7a-4442-b933-31411548680b.jpg)![photo_2022-05-26_11-36-29](https://user-images.githubusercontent.com/89372677/170461904-71434772-6956-4e12-a630-bbff49e5c706.jpg)
 ![photo_2022-05-26_11-36-32](https://user-images.githubusercontent.com/89372677/170461907-67823764-56c5-4936-86ce-04faac348f69.jpg)
 ![photo_2022-05-26_11-36-35](https://user-images.githubusercontent.com/89372677/170461912-1b6fa92b-48ea-483e-badf-38a312e1b210.jpg)
 ![photo_2022-05-26_11-36-41](https://user-images.githubusercontent.com/89372677/170461916-dba64afc-9a96-469c-8df0-43800cea598f.jpg)
